@@ -1,0 +1,8 @@
+{
+  "name": "ElonBot",
+  "symbol": "EBOT",
+  "decimals": 18,
+  "description": "Token Meme Futurista inspirado em Elon Musk",
+  "website": "https://elonbottoken.com", 
+  "explorer": "https://bscscan.com/token/0xSEU_CONTRATO"
+}
